@@ -1,0 +1,1 @@
+{"name": "test_task_card_delete", "status": "passed", "start": 1753444826523, "stop": 1753444843393, "uuid": "8768c68d-ef8c-4420-9224-adc5c85813be", "testCaseId": "fc6152136afb07894417cade40e0b177", "fullName": "tests.Test_taskboard#test_task_card_delete", "titlePath": ["tests", "Test_taskboard.py"]}

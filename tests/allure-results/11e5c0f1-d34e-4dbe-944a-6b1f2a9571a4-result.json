@@ -1,0 +1,1 @@
+{"name": "test_pipeline_sql_injection_protection", "status": "passed", "start": 1753363509457, "stop": 1753363510337, "uuid": "8d051eba-fcf0-48b1-b940-e8fc13d09936", "testCaseId": "ae9551fe9f75fc6e628a7d816256d819", "fullName": "tests.test_pipeline#test_pipeline_sql_injection_protection", "titlePath": ["tests", "test_pipeline.py"]}
